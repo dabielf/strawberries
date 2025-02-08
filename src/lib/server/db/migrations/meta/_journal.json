@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1739035506844,
+      "tag": "0000_colossal_marvel_zombies",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1739035723789,
+      "tag": "0001_curious_mongoose",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1739036068259,
+      "tag": "0002_concerned_reptil",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1739036456874,
+      "tag": "0003_curly_old_lace",
+      "breakpoints": true
+    }
+  ]
+}

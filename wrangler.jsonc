@@ -26,7 +26,8 @@
 		{
 			"binding": "DB",
 			"database_name": "strawberries",
-			"database_id": "9ff0cbbf-6dd8-4bc0-9135-8814bf7b5258"
+			"database_id": "9ff0cbbf-6dd8-4bc0-9135-8814bf7b5258",
+			"migrations_dir": "src/lib/server/db/migrations"
 		}
 	]
 
