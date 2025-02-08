@@ -5,12 +5,12 @@ export default defineConfig({
 	plugins: [sveltekit()],
 	ssr: {
 		// Mark the module as external for SSR
-		external: ["@node-rs/argon2-wasm32-wasi"],
+		external: [],
 	},
 	build: {
 		rollupOptions: {
 			// Also mark it as external during bundling
-			external: ["@node-rs/argon2-wasm32-wasi"],
+			external: [],
 		},
 	},
 });
